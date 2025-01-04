@@ -7,8 +7,7 @@
 Welcome to my corner of GitHub! I'm passionate about coding, creating innovative solutions, and exploring the fascinating world of artificial intelligence.  
 
 ## 🚀 About Me  
-- 📍 Currently in my 3rd semester at **PSIT Kanpur**.  
-- 🖱️ Working on **HandWave: Gesture-Based Cursor Control**, combining gesture recognition and intuitive design.  
+- 📍 Currently in my 3rd semester at **PSIT Kanpur**. 
 - 🌟 Striving to make a positive impact through technology.  
 
 ## 🛠 Skills  
