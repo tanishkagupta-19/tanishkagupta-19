@@ -16,11 +16,12 @@ Welcome to my corner of GitHub! I'm passionate about coding, creating innovative
 - **Tools**: Git, STL (C++) -->
 ## 🛠 **Languages and Tools:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" style="display: inline-block; margin-right: 10px;"/>
+
 
 
 
