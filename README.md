@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me - Tanishka</title>
 </head>
 <body>
     <h1>Hi there, I'm Tanishka! 👋</h1>
