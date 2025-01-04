@@ -10,10 +10,17 @@ Welcome to my corner of GitHub! I'm passionate about coding, creating innovative
 - 📍 Currently in my 3rd semester at **PSIT Kanpur**. 
 - 🌟 Striving to make a positive impact through technology.  
 
-## 🛠 Skills  
+<!--## 🛠 Skills  
 - **Languages**: Python, C, C++
 - **Web Development**: HTML, CSS
-- **Tools**: Git, STL (C++) 
+- **Tools**: Git, STL (C++) -->
+## 🛠 **Languages and Tools:**
+
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+
 
 ## 🌱 Learning  
 - Diving deeper into **AI/ML** and **gesture-based technologies**.  
