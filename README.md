@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**tanishkagupta-19/tanishkagupta-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tanishka! 👋  
 
-Here are some ideas to get you started:
+🎓 **B.Tech Student | Computer Science (AI Specialization)**  
+💡 **Aspiring AI Developer | Tech Enthusiast**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my corner of GitHub! I'm passionate about coding, creating innovative solutions, and exploring the fascinating world of artificial intelligence.  
+
+## 🚀 About Me  
+- 📍 Currently in my 3rd semester at **PSIT Kanpur**.  
+- 🖱️ Working on **HandWave: Gesture-Based Cursor Control**, combining gesture recognition and intuitive design.  
+- 🌟 Striving to make a positive impact through technology.  
+
+## 🛠 Skills  
+- **Languages**: Python, C, C++
+- **Web Development**: HTML, CSS
+- **Tools**: Git, STL (C++) 
+
+## 🌱 Learning  
+- Diving deeper into **AI/ML** and **gesture-based technologies**.  
+- Improving my UI/UX design knowledge for better user experiences.  
+
+## 🌟 Projects  
+- **HandWave**: Gesture-based cursor control project.  
+- **Translator App**: Multi-language text translator with intuitive features.  
+
+## Let's connect
+<p align="left">
+    <a href="https://www.linkedin.com/in/tanishkagupta19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika-patel-371014321" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/2311736_AI1C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ai1a_2310643" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/tanishkagupta-19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ai1a_2310643" height="30" width="40" /></a>
+</p>
+
+
