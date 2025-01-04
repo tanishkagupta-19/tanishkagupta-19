@@ -2,7 +2,7 @@
 # Hi there, I'm Tanishka! 👋  
 
 🎓 **B.Tech Student | Computer Science (AI Specialization)**  
-💡 **Aspiring AI Developer | Tech Enthusiast**  
+💡 **Tech Enthusiast**  
 
 Welcome to my corner of GitHub! I'm passionate about coding, creating innovative solutions, and exploring the fascinating world of artificial intelligence.  
 
