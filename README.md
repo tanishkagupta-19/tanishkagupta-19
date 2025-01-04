@@ -26,10 +26,8 @@ Welcome to my corner of GitHub! I'm passionate about coding, creating innovative
 </p>
 
 
-
 ## 🌱 Learning  
-- Diving deeper into **AI/ML** and **gesture-based technologies**.  
-- Improving my UI/UX design knowledge for better user experiences.  
+- Advancing my expertise in **Artificial Intelligence** and **Machine Learning**, with a focus on developing scalable and efficient solutions.  
 
 ## 🌟 Projects  
 - **HandWave**: Gesture-based cursor control project.  
