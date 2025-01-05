@@ -15,10 +15,7 @@
     <a href="https://www.hackerrank.com/2311736_AI1C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ai1a_2310643" height="30" width="40" /></a>
     <a href="https://leetcode.com/u/tanishkagupta-19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ai1a_2310643" height="30" width="40" /></a>
 </p>
-<!--## 🛠 Skills  
-- **Languages**: Python, C, C++
-- **Web Development**: HTML, CSS
-- **Tools**: Git, STL (C++) -->
+
 ## 🛠 **Languages and Tools:**
 
 <p align="left">
