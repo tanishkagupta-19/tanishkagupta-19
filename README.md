@@ -4,8 +4,6 @@
 🎓 **B.Tech Student | Computer Science (AI Specialization)**  
 💡 **Tech Enthusiast**  
 
-Welcome to my corner of GitHub! I'm passionate about coding, creating innovative solutions, and exploring the fascinating world of artificial intelligence.  
-
 ## 🚀 About Me  
 - 📍 **3rd Semester B.Tech** student specializing in **Computer Science with Artificial Intelligence**.  
 - 💼 Focused on leveraging technology to solve real-world problems and contribute to innovation in the field of **AI**, **software development**.
