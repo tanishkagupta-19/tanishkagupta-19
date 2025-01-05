@@ -9,8 +9,6 @@
 - 💼 Focused on leveraging technology to solve real-world problems and contribute to innovation in the field of **AI**, **software development**.
 - 📚 Continuously expanding my knowledge through practical experience and academic learning to stay ahead in the ever-evolving tech landscape.
 
-
-
 ## 🤝 Let's connect
 <p align="left">
     <a href="https://www.linkedin.com/in/tanishkagupta19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika-patel-371014321" height="30" width="40" /></a>
