@@ -5,8 +5,8 @@
 💡 **Tech Enthusiast**  
 
 ## 🚀 About Me  
-- 📍 **3rd Semester B.Tech** student specializing in **Computer Science with Artificial Intelligence**.  
-- 💼 Focused on leveraging technology to solve real-world problems and contribute to innovation in the field of **AI**, **software development**.
+- 📍 **4th Semester B.Tech** student specializing in **Computer Science with Artificial Intelligence**.  
+- 💼 Focused on leveraging technology to solve real-world problems and contribute to innovation in the field of **AI**, **Machine Learning** and **Cloud Computing**.
 - 📚 Continuously expanding my knowledge through practical experience and academic learning to stay ahead in the ever-evolving tech landscape.
 
 ## 🤝 Let's connect
