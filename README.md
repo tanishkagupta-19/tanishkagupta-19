@@ -2,7 +2,7 @@
 # Hi there, I'm Tanishka! 👋  
 
 🎓 **B.Tech Student | Computer Science (AI Specialization)**  
-💡 **Tech Enthusiast**  
+
 
 ## 🚀 About Me  
 - 📍 **4th Semester B.Tech** student specializing in **Computer Science with Artificial Intelligence**.  
