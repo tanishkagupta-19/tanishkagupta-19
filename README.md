@@ -13,8 +13,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/tanishkagupta19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika-patel-371014321" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/2311736_AI1C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ai1a_2310643" height="30" width="40" /></a>
-    <a href="https://leetcode.com/u/tanishkagupta-19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ai1a_2310643" height="30" width="40" /></a> </br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="30" height="30" style="display: inline; margin-right: 10px;" />
+    <a href="https://leetcode.com/u/tanishkagupta-19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ai1a_2310643" height="30" width="40" /></a
 
 </p>
 
@@ -27,7 +26,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="display: inline; margin-right: 10px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" style="display: inline; margin-right: 10px;"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="display: inline; margin-right: 10px;" />
-
+ </br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="30" height="30" style="display: inline; margin-right: 10px;" />
 
 </p>
 
