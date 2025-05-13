@@ -1,5 +1,6 @@
 
 # Hi there, I'm Tanishka! 👋  
+![Profile views](https://komarev.com/ghpvc/?username=tanishkagupta-19&color=blue)
 
 🎓 **B.Tech Student | Computer Science (AI Specialization)**  
 
