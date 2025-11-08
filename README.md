@@ -44,7 +44,7 @@
 
 ### 📈 Contribution Graph
 
-![Tanishka's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishkagupta19&theme=tokyo-night&hide_border=true)
+![Tanishka's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishkagupta-19&theme=tokyo-night&hide_border=true)
 
 ---
 
