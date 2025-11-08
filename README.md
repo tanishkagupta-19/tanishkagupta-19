@@ -28,12 +28,25 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="30" height="30" style="display: inline; margin-right: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="30" height="30" style="display: inline; margin-right: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="30" height="30" style="display: inline; margin-right: 10px; filter: brightness(1.5);" />
+</p>
+### 📊 GitHub Stats
 
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishkagupta19&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkagupta19&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tanishkagupta19&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+![Tanishka's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishkagupta19&theme=tokyo-night&hide_border=true)
+
+---
 
 ## 🌱 Learning  
 - Advancing my expertise in **Artificial Intelligence** and **Machine Learning**, with a focus on developing scalable and efficient solutions.  
