@@ -29,8 +29,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="30" height="30" style="display: inline; margin-right: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="30" height="30" style="display: inline; margin-right: 10px; filter: brightness(1.5);" />
 </p>
----
-### 📊 GitHub Stats
+
+### 📊** GitHub Stats:**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanishkagupta-19&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
