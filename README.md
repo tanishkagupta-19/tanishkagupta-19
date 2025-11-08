@@ -33,12 +33,12 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishkagupta-19&show_icons=true&theme=tokyonight&hide_border=true" height="2000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkagupta-19&layout=compact&theme=tokyonight&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishkagupta-19&show_icons=true&theme=tokyonight&hide_border=true" height="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkagupta-19&layout=compact&theme=tokyonight&hide_border=true" height="500" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanishkagupta19&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=tanishkagupta-19&theme=tokyonight&hide_border=true" height="500" />
 </p>
 
 ---
