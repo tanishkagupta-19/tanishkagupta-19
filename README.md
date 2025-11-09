@@ -52,9 +52,4 @@
 ## 🌱 Learning  
 - Advancing my expertise in **Artificial Intelligence** and **Machine Learning**, with a focus on developing scalable and efficient solutions.  
 
-## 🌟 Projects  
-- **HandWave**: Gesture-based cursor control project.  
-- **Translator App**: Multi-language text translator with intuitive features.  
-
-
 
